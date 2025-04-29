@@ -1,0 +1,1 @@
+This Project was built using NLP Concepts. Basically it contains a simple Story Summarizer and a Character Summarizer which will be generated from the story which is given as input to the model. The Pre Trained models like Facebook Bart has been used in this project.
